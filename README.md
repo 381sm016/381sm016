@@ -7,11 +7,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=381sm016&layout=compact" alt="Top languages for 381sm016" />
 </p>
 
-## Merged PRs (highlights)
-These are repositories where I’ve had pull requests merged.
-
-### Recent merged PR repos
+## Highlights
 - **W0rthlessS0ul/FZ_nRF24_jammer** — merged PR: “Add SPI pin setting for 2-in-1 NRF24+CC1101 module” (merged 2026-03-06)
+- **381sm016/CoreERP** - Developing an ERP with built in CRM functionality which focusses on production. Fully made with typescript and PostgreSQL
   
 
 ## Quick links
