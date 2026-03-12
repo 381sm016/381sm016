@@ -13,8 +13,6 @@ These are repositories where I’ve had pull requests merged.
 ### Recent merged PR repos
 - **W0rthlessS0ul/FZ_nRF24_jammer** — merged PR: “Add SPI pin setting for 2-in-1 NRF24+CC1101 module” (merged 2026-03-06)
   
-> Want this section to auto-update with *all* merged PRs (not just a manual list)?
-> I can set you up with a GitHub Actions workflow that regenerates this README daily using the GitHub API.
 
 ## Quick links
 - Profile: https://github.com/381sm016
