@@ -1,16 +1,21 @@
-## Hi there 👋
+# 381sm016
 
-<!--
-**381sm016/381sm016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
+<p align="left">
+  <!-- Overall GitHub stats (includes private contributions only if you enable it in the card settings + token where required) -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=381sm016&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false" alt="GitHub stats for 381sm016" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=381sm016&layout=compact" alt="Top languages for 381sm016" />
+</p>
 
-Here are some ideas to get you started:
+## Merged PRs (highlights)
+These are repositories where I’ve had pull requests merged.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent merged PR repos
+- **W0rthlessS0ul/FZ_nRF24_jammer** — merged PR: “Add SPI pin setting for 2-in-1 NRF24+CC1101 module” (merged 2026-03-06)
+  
+> Want this section to auto-update with *all* merged PRs (not just a manual list)?
+> I can set you up with a GitHub Actions workflow that regenerates this README daily using the GitHub API.
+
+## Quick links
+- Profile: https://github.com/381sm016
+- PR search (merged): https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A381sm016
