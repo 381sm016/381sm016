@@ -4,7 +4,6 @@
 <p align="left">
   <!-- Overall GitHub stats (includes private contributions only if you enable it in the card settings + token where required) -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=381sm016&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&theme=dark" alt="GitHub stats for 381sm016" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=381sm016&layout=compact&theme=dark" alt="Top languages for 381sm016" />
 </p>
 
 ## Highlights
