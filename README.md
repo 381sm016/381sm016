@@ -1,4 +1,5 @@
 # 381sm016
+Solo working on a JavaScript based ERP since November 2025
 
 ## Stats
 <p align="left">
